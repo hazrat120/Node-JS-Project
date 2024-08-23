@@ -1,5 +1,5 @@
 {
-  "name": "nodeproject",
+  "name": "nodejs-project",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "url": "git+https://github.com/hazrat120/Node-JS-Project.git"
   },
   "keywords": [
-    "HazratAli"
+    "ali"
   ],
   "author": "Hazrat Ali",
   "license": "ISC",
